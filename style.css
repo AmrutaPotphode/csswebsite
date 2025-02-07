@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    border:1px;
+    margin:0;
+    box-sizing: border-box;
+}
+
+due{
+    color:red;
+    background-color: yellow;
+}
+
+span{
+    color:red;
+    background-color: yellow;
+}
+
+p{
+    height:100px;
+    width:100px;
+    background-color: aquamarine;
+    padding:10px;
+}
